@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Myapp1.0</string>
+    <string name="_name">vishal</string>
+    <string name="yellow_star">Yellow_Star</string>
+    <string name="Bio">Hey there,my name is vishal .
+    I am from Jind .I am a student in one of the best engineering
+    college in haryana.
+    I just love eatting , writing codes and going to parties with friends.
+    I also like to read and listen to music.
+    This is my app its version 1.0 and I am continously working to improve this app.
+    </string>
+    <string name="enter_your_nickname_dude">Enter your nickname dude</string>
+    <string name="done" />
+    <string name="done1">Done</string>
+</resources>
